@@ -23,6 +23,16 @@ You may also find a way to save a browser snippet in Mozilla, similar to how it'
 
 ![](./preview.png)
 
+## Development
+To get started, simply run `npm run dev`.\
+That will spin up a local server on port 8041.
+
+Open http://localhost:8041 in your browser and drag the provided bookmarklet into your bookmarks bar.
+
+This bookmarklet is automatically reflecting the newest inject.js.
+
+You don't need to build manually; the CI will take care of generating ./index.html.
+
 ## Todo
 
 - configure auto injection

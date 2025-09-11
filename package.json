@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build": "node scripts/generateHTML.js"
+    "build": "node scripts/generateHTML.js",
+    "dev": "node scripts/dev.js"
   },
   "dependencies": {
     "ejs": "^3.1.10",

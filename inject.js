@@ -1,4 +1,12 @@
 (function () {
+  function isFirefox() {
+    return navigator.userAgent.toLowerCase().includes("firefox");
+  }
+  if (!isFirefox()) {
+    alert("Im only working in Firefox!");
+    return;
+  }
+
   const errorElements = document.querySelectorAll(".error");
   let currentIndex = -1; // initial index: -1 --> no error selected yet
   let intervalId = null;

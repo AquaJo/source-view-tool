@@ -24,6 +24,7 @@ You may also find a way to save a browser snippet in Mozilla, similar to how it'
 ![](./preview.png)
 
 ## Development
+
 To get started, simply run `npm run dev`.\
 That will spin up a local server on port 8041.
 

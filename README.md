@@ -1,7 +1,7 @@
 # Source View Tool
 
-I can make error finding in **Mozilla Firefox** more comfortable :)\
-I help you jumping right to the errors you need to fix!
+I can make HTML-Markup-Error finding in **Mozilla Firefox** more comfortable :)\
+I help you jumping right to the errors you need to fix in **"Source View" (Ctrl+U)**!
 
 ## How to use me?
 

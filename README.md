@@ -12,8 +12,7 @@ Go to [this website](https://aquajo.github.io/sourceViewTool/) and drag the book
 
 ### The long way
 
-Copy [this](./inject.js) into a console on a Source-View-Page (Ctrl+U) in firefox and jump right into the errors instead of the need to search for them! ^^\
-Currently only button-control is supported.
+Copy `bundle.js` from dist after building into a console on a Source-View-Page (Ctrl+U) in firefox.
 
 ### Other way
 

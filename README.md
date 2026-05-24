@@ -32,4 +32,4 @@ Open http://localhost:8041 in your browser and drag the provided bookmarklet int
 This bookmarklet is automatically reflecting the newest (automatically built) `bundle.js`-Code in `./dist`.
 
 **For pushing:**\
-You don't need to build manually; the CI will take care of generating `index.html` and the bundle.
+You don't need to build manually; the CI will take care of generating `index.html` and the bundle outside the repo.

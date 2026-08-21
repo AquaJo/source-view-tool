@@ -33,16 +33,15 @@
     </style>
   </head>
   <body style="background-color: black; color: white">
-    Drag the following (automatically updating!!) bookmarklet into your
-    bookmarklet list and use it whenever you need it:
+    Drag the following static bookmarklet into your bookmarklet list and use it whenever you need it:
+    <a href="<%- staticJavascript %>">View-Source-Tool</a>
+    <br />
+    <br />
+    Alternatively, if you want an automatically updating bookmarklet, you can use the following. The automatically updated one might not work on specific sites due to their Content-Security-Policy:
     <a
       href="javascript:(function(){fetch('https://aquajo.github.io/source-view-tool/bundle.js').then(response=>response.text()).then(script=>eval(script)).catch(error=>console.error('Error:',error));})();"
     >
       View-Source-Tool
     </a>
-    <br />
-    <br />
-    If you want a static bookmark, feel free to use the following:
-    <a href="<%- staticJavascript %>">View-Source-Tool</a>
   </body>
 </html>

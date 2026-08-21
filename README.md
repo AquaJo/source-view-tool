@@ -7,8 +7,11 @@ I help you jumping right to the errors you need to fix in **"Source View" (Ctrl+
 
 ### Bookmarklet
 
-Be aware to choose the bookmark type you want, a static one or an automatically updating one (reflecting this repo)!\
 Go to [this website](https://aquajo.github.io/source-view-tool/) and drag the bookmarklet into your bookmarklets-list.
+
+Be aware to choose the bookmark type you want, a static one or an automatically updating one (reflecting this repo)!\
+The automatically updated one might not work on specific sites due to their `Content-Security-Policy`.\
+The static one should work all the time.
 
 ### The long way
 

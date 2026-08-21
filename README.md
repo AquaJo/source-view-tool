@@ -7,16 +7,16 @@ I help you jumping right to the errors you need to fix in **"Source View" (Ctrl+
 
 ### Bookmarklet
 
-Be aware to choose the bookmark type you want, a static one or an automatically updating one!\
+Be aware to choose the bookmark type you want, a static one or an automatically updating one (reflecting this repo)!\
 Go to [this website](https://aquajo.github.io/source-view-tool/) and drag the bookmarklet into your bookmarklets-list.
 
 ### The long way
 
-Copy `bundle.js` from dist after building into a console on a Source-View-Page (Ctrl+U) in firefox.
+Copy `bundle.js` from dist after building into a console on a Source-View-Page (Ctrl+U) in Firefox.
 
 ### Other way
 
-You may also find a way to save a browser snippet in Mozilla, similar to how it's done in Chrome.
+You may also find a way to save a browser snippet in Firefox, similar to how it's done in Chrome.
 
 ## Preview
 

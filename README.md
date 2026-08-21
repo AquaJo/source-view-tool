@@ -8,7 +8,7 @@ I help you jumping right to the errors you need to fix in **"Source View" (Ctrl+
 ### Bookmarklet
 
 Be aware to choose the bookmark type you want, a static one or an automatically updating one!\
-Go to [this website](https://aquajo.github.io/sourceViewTool/) and drag the bookmarklet into your bookmarklets-list.
+Go to [this website](https://aquajo.github.io/source-view-tool/) and drag the bookmarklet into your bookmarklets-list.
 
 ### The long way
 
